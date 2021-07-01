@@ -52,10 +52,10 @@ Dichas pruebas se lanzan de manera automática.
 
 Podrá encontar el detalle de los casos en /BANK_TECHNICAL_TEST/src/test/java/com/sotobotero/bank/BankBusinessRuleTests.java
 
-## Más informacion
+## Más información
 
 Echo por Francisco L. Gutiérrez Núñez
 Email: flgutierrezn@gmail.com
-Tlf.: 685 560 597
+
 
 
